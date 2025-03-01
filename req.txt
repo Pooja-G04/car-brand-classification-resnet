@@ -1,8 +1,0 @@
-torch==2.6.0
-torcheval==0.0.7
-torchvision==0.21.0
-numpy
-matplotlib
-scikit-learn
-gradio
-streamlit
